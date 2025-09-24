@@ -1,4 +1,3 @@
-```markdown
 ## Demo App: Using the Server with Google Earth Engine
 
 This demo app shows how the server can be used to interact with Google Earth Engine (GEE).
@@ -25,4 +24,3 @@ GEE_PROJECT=
 GDRIVE_FOLDER=
 ```
 Fill in your Google Earth Engine project ID and Google Drive folder name as needed.
-```
